@@ -1,8 +1,8 @@
 name: 'Bootstrap Child Theme'
 type: theme
-description: 'Theme based on Bootstrap''s'
+description: 'Sub theme based on Bootstrap''s include framework Sass source files and must be compiled (not for beginners).'
 core: 8.x
-package: Custom
+package: Bootstrap
 base theme: bootstrap
 regions:
   navigation: 'Navigation'
